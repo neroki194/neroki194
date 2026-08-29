@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="./meow.svg" width="800">
+  <img src="./meow.svg" width="650">
 </p>
