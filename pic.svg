@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg"
      width="2400"
-     height="500"
-     viewBox="0 0 2400 500">
+     height="200"
+     viewBox="0 0 2400 200">
 
   <defs>
     <linearGradient
@@ -22,8 +22,8 @@
   </defs>
 
   <text
-    x="0"
-    y="36"
+    x="24"
+    y="24"
     fill="url(#greyGradient)"
     font-family="DejaVu Sans Mono, Noto Sans Mono, monospace"
     font-size="24px"
